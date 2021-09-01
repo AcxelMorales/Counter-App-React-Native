@@ -60,6 +60,6 @@ const styles = StyleSheet.create({
   },
   limeDarkBox: {
     backgroundColor: '#E0C95C',
-    ...StyleSheet.absoluteFillObject
+    ...StyleSheet.absoluteFillObject,
   },
 });
